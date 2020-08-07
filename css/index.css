@@ -307,12 +307,19 @@ footer nav a {
 
 
 
-.row1{
+.picrow{
+    margin-top: 10px;
     display:flex;
     margin-left: 400px;
     margin-right: 350px;
     justify-content: space-between;
-
+}
+.picrow2{
+    margin-top: 60px;
+    display:flex;
+    margin-left: 400px;
+    margin-right: 350px;
+    justify-content: space-between;
 }
 
 .textrow1{
@@ -321,14 +328,25 @@ footer nav a {
     display:flex;
     justify-content: space-around;
     margin-top:10px;
+
+}.textrow2{
+    width:50%;
+    margin-left: 400px;
+    display:flex;
+    justify-content: space-around;
+    margin-top:10px;
 }
 
-;
+
 .text1holder{
+}
+.text2holder{
+    margin-left:35px;
+}
+
+.lholder{
     border-bottom: 1px dashed black;
-}.text2holder{
-    border-bottom: 1px dashed black;
-    margin-right:-15px;
+    margin-right: 35px;
 }
 
 .learn{
@@ -343,4 +361,17 @@ footer nav a {
     text-decoration: none;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.bottomtext{
+    width:50%;
+    margin-left: 400px;
+    display:flex;
+    flex-direction: column;
+    margin-top:30px;
+    margin-bottom: 30px;
+}    
+
+.work{
+  margin-bottom: 20px;
 }
