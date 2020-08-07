@@ -72,9 +72,11 @@ p {
 
 
 .containerabout-page{
-    border-bottom: 1px dashed black;
-    margin-top: 20px;
     margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    margin-left: 400px;
+    width:53%;
+    padding: 10px
 }
 
 .top-content {
@@ -296,4 +298,49 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.jumboskyline{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
+
+
+.row1{
+    display:flex;
+    margin-left: 400px;
+    margin-right: 350px;
+    justify-content: space-between;
+
+}
+
+.textrow1{
+    width:50%;
+    margin-left: 400px;
+    display:flex;
+    justify-content: space-around;
+    margin-top:10px;
+}
+
+;
+.text1holder{
+    border-bottom: 1px dashed black;
+}.text2holder{
+    border-bottom: 1px dashed black;
+    margin-right:-15px;
+}
+
+.learn{
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 12px;
+    padding:9px;
+    font-size: 16px;
+    font-weight: bold;
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
