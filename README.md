@@ -32,15 +32,18 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic HTML is the markup lanuage of a webpage.  In other words its the building blocks of a house with labels on everything so you can see what its supposed to be before its painted and decorated.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Block takes up its whole space and inline stays within the line.  Simliar to word wrap one pushes things below and the other keeps them tight.
 
-3. What are the 4 areas of the box model?
+3. What are the 4 areas of the box model? Margin, Padding, Border and Content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+X axis
 
 5. Explain why git is valuable to a team of developers.
+It allows you to have backup storage of a project, make adjustments without altering other peoples code and has the ablity to go back in time to see previous versions of the code.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -72,18 +75,6 @@ Your finished project must include all of the following requirements:
 * [ ] Build the HTML and CSS to create the missing navigation and header.
 * [ ] Link the `About` navigation item to the [about.html](about.html) page
 
-You will also notice there are 10 boxes on the home page that need background colors.  Use this list below to correctly style each box:
-
-* [ ] box1: `teal`
-* [ ] box2: `gold`
-* [ ] box3: `cadetblue`
-* [ ] box4: `coral`
-* [ ] box5: `crimson`
-* [ ] box6: `forestgreen`
-* [ ] box7: `darkorchid`
-* [ ] box8: `hotpink`
-* [ ] box9: `indigo`
-* [ ] box10: `dodgerblue`
 
 ### About Page
 
